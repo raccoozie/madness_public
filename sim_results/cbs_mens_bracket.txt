@@ -1,0 +1,90 @@
+[Running] python -u "c:\Users\racco\source\repos\madness\madness4.py"
+Madness Model started at 2023-03-15 14:11:21
+
+Alabama defeats Texas A&M with a score of 97 to 88
+West Virginia defeats Maryland with a score of 95 to 54
+Charleston defeats San Diego St. with a score of 71 to 54
+Furman defeats Virginia with a score of 84 to 50
+NC State defeats Creighton with a score of 97 to 85
+UC Santa Barbara defeats Baylor with a score of 76 to 69
+Missouri defeats Utah St. with a score of 91 to 59
+Arizona defeats Princeton with a score of 76 to 63
+Alabama defeats West Virginia with a score of 74 to 66
+Furman defeats Charleston with a score of 91 to 89
+UC Santa Barbara defeats NC State with a score of 97 to 83
+Missouri defeats Arizona with a score of 62 to 61
+Alabama defeats Furman with a score of 97 to 83
+Missouri defeats UC Santa Barbara with a score of 76 to 71
+Missouri defeats Alabama with a score of 84 to 83
+
+The south region champion is: Missouri
+
+
+Purdue defeats Texas Southern/FDU with a score of 74 to 65
+Florida Atlantic defeats Memphis with a score of 60 to 59
+Duke defeats Oral Roberts with a score of 93 to 66
+Louisiana defeats Tennessee with a score of 73 to 58
+Providence defeats Kentucky with a score of 76 to 50
+Montana St. defeats Kansas St. with a score of 66 to 51
+Michigan St. defeats USC with a score of 69 to 67
+Marquette defeats Vermont with a score of 88 to 51
+Florida Atlantic defeats Purdue with a score of 82 to 81
+Louisiana defeats Duke with a score of 84 to 80
+Providence defeats Montana St. with a score of 90 to 52
+Michigan St. defeats Marquette with a score of 65 to 54
+Louisiana defeats Florida Atlantic with a score of 81 to 79
+Providence defeats Michigan St. with a score of 90 to 64
+Providence defeats Louisiana with a score of 83 to 52
+
+The east region champion is: Providence
+
+Howard defeats Kansas with a score of 88 to 50
+Illinois defeats Arkansas with a score of 98 to 87
+VCU defeats Saint Mary�s with a score of 86 to 65
+Iona defeats UConn with a score of 64 to 61
+TCU defeats Arizona St./Nevada with a score of 94 to 78
+Gonzaga defeats Grand Canyon with a score of 75 to 63
+Northwestern defeats Boise St. with a score of 79 to 74
+UCLA defeats UNC Asheville with a score of 53 to 52
+Illinois defeats Howard with a score of 91 to 75
+Iona defeats VCU with a score of 98 to 80
+Gonzaga defeats TCU with a score of 94 to 74
+Northwestern defeats UCLA with a score of 95 to 81
+Illinois defeats Iona with a score of 98 to 78
+Northwestern defeats Gonzaga with a score of 96 to 86
+Illinois defeats Northwestern with a score of 95 to 73
+
+The west region champion is: Illinois
+
+Northern Ky. defeats Houston with a score of 93 to 81
+Iowa defeats Auburn with a score of 98 to 91
+Miami (FL) defeats Drake with a score of 91 to 64
+Kent St. defeats Indiana with a score of 93 to 50
+Iowa St. defeats Mississippi St./Pitt with a score of 81 to 77
+Kennesaw St. defeats Xavier with a score of 88 to 67
+Penn St. defeats Texas A&M with a score of 93 to 58
+Colgate defeats Texas with a score of 81 to 73
+Iowa defeats Northern Ky. with a score of 92 to 69
+Miami (FL) defeats Kent St. with a score of 66 to 60
+Kennesaw St. defeats Iowa St. with a score of 80 to 77
+Penn St. defeats Colgate with a score of 54 to 50
+Miami (FL) defeats Iowa with a score of 73 to 55
+Penn St. defeats Kennesaw St. with a score of 86 to 80
+Penn St. defeats Miami (FL) with a score of 89 to 57
+
+The midwest region champion is: Penn St.
+
+Missouri defeats Providence with a score of 82 to 49
+
+The south-east region champion is: Missouri
+
+Penn St. defeats Illinois with a score of 50 to 48
+
+The midwest-west region champion is: Penn St.
+
+Missouri defeats Penn St. with a score of 83 to 49
+
+The final champion is: Missouri
+
+[Done] exited with code=0 in 0.088 seconds
+

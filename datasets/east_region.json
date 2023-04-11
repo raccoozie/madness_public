@@ -1,0 +1,116 @@
+{
+    "teams": [
+        {
+            "seed": 4,
+            "name": "Purdue",
+            "rank": 1,
+            "wins": 29,
+            "losses": 5
+        },
+        {
+            "seed": 7,
+            "name": "Texas Southern/FDU",
+            "rank": 16,
+            "wins": 0,
+            "losses": 0
+        },
+        {
+            "seed": 29,
+            "name": "Memphis",
+            "rank": 8,
+            "wins": 26,
+            "losses": 8
+        },
+        {
+            "seed": 33,
+            "name": "Florida Atlantic",
+            "rank": 9,
+            "wins": 31,
+            "losses": 3
+        },
+        {
+            "seed": 18,
+            "name": "Duke",
+            "rank": 5,
+            "wins": 26,
+            "losses": 8
+        },
+        {
+            "seed": 48,
+            "name": "Oral Roberts",
+            "rank": 12,
+            "wins": 30,
+            "losses": 4
+        },
+        {
+            "seed": 14,
+            "name": "Tennessee",
+            "rank": 4,
+            "wins": 23,
+            "losses": 10
+        },
+        {
+            "seed": 54,
+            "name": "Louisiana",
+            "rank": 13,
+            "wins": 26,
+            "losses": 7
+        },
+        {
+            "seed": 23,
+            "name": "Kentucky",
+            "rank": 6,
+            "wins": 21,
+            "losses": 11
+        },
+        {
+            "seed": 42,
+            "name": "Providence",
+            "rank": 11,
+            "wins": 21,
+            "losses": 11
+        },
+        {
+            "seed": 11,
+            "name": "Kansas St.",
+            "rank": 3,
+            "wins": 23,
+            "losses": 9
+        },
+        {
+            "seed": 58,
+            "name": "Montana St.",
+            "rank": 14,
+            "wins": 25,
+            "losses": 9
+        },
+        {
+            "seed": 26,
+            "name": "Michigan St.",
+            "rank": 7,
+            "wins": 19,
+            "losses": 12
+        },
+        {
+            "seed": 39,
+            "name": "USC",
+            "rank": 10,
+            "wins": 22,
+            "losses": 10
+        },
+        {
+            "seed": 8,
+            "name": "Marquette",
+            "rank": 2,
+            "wins": 28,
+            "losses": 6
+        },
+        {
+            "seed": 59,
+            "name": "Vermont",
+            "rank": 15,
+            "wins": 23,
+            "losses": 10
+        }
+    ]
+}

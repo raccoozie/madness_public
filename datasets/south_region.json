@@ -1,0 +1,116 @@
+{
+    "teams": [
+        {
+            "seed": 1,
+            "name": "Alabama",
+            "rank": 1,
+            "wins": 29,
+            "losses": 5
+        },
+        {
+            "seed": 7,
+            "name": "Arizona",
+            "rank": 2,
+            "wins": 28,
+            "losses": 6
+        },
+        {
+            "seed": 9,
+            "name": "Baylor",
+            "rank": 3,
+            "wins": 22,
+            "losses": 10
+        },
+        {
+            "seed": 16,
+            "name": "Virginia",
+            "rank": 4,
+            "wins": 25,
+            "losses": 7
+        },
+        {
+            "seed": 17,
+            "name": "San Diego St.",
+            "rank": 5,
+            "wins": 27,
+            "losses": 6
+        },
+        {
+            "seed": 22,
+            "name": "Creighton",
+            "rank": 6,
+            "wins": 21,
+            "losses": 12
+        },
+        {
+            "seed": 27,
+            "name": "Missouri",
+            "rank": 7,
+            "wins": 24,
+            "losses": 9
+        },
+        {
+            "seed": 31,
+            "name": "Maryland",
+            "rank": 8,
+            "wins": 21,
+            "losses": 12
+        },
+        {
+            "seed": 34,
+            "name": "West Virginia",
+            "rank": 9,
+            "wins": 19,
+            "losses": 14
+        },
+        {
+            "seed": 40,
+            "name": "Utah St.",
+            "rank": 10,
+            "wins": 26,
+            "losses": 8
+        },
+        {
+            "seed": 41,
+            "name": "NC State",
+            "rank": 11,
+            "wins": 23,
+            "losses": 10
+        },
+        {
+            "seed": 47,
+            "name": "Charleston",
+            "rank": 12,
+            "wins": 31,
+            "losses": 3
+        },
+        {
+            "seed": 53,
+            "name": "Furman",
+            "rank": 13,
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 56,
+            "name": "UC Santa Barbara",
+            "rank": 14,
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 61,
+            "name": "Princeton",
+            "rank": 15,
+            "wins": 21,
+            "losses": 58
+        },
+        {
+            "seed": 25,
+            "name": "Texas A&M",
+            "rank": 16,
+            "wins": 25,
+            "losses": 9
+        }
+    ]
+}

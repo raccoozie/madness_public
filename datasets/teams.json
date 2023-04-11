@@ -1,0 +1,102 @@
+{
+    "teams": [
+        {
+            "team": "Alabama",
+            "rank": 1
+        },
+        {
+            "team": "Arizona",
+            "rank": 2
+        },
+        {
+            "team": "Baylor",
+            "rank": 3
+        },
+        {
+            "team": "Virginia",
+            "rank": 4
+        },
+        {
+            "team": "San Diego St.",
+            "rank": 5
+        },
+        {
+            "team": "Creighton",
+            "rank": 6
+        },
+        {
+            "team": "Missouri",
+            "rank": 7
+        },
+        {
+            "team": "Maryland",
+            "rank": 8
+        },
+        {
+            "team": "West Virginia",
+            "rank": 9
+        },
+        {
+            "team": "Utah St.",
+            "rank": 10
+        },
+        {
+            "team": "NC State",
+            "rank": 11
+        },
+        {
+            "team": "Charleston",
+            "rank": 12
+        },
+        {
+            "team": "Furman",
+            "rank": 13
+        },
+        {
+            "team": "UCSB",
+            "rank": 14
+        },
+        {
+            "team": "Princeston",
+            "rank": 15
+        },
+        {
+            "team": "TAMU-CC/SEMO",
+            "rank": 16
+        }
+    ],
+    "matchups": [
+        {
+            "team1": "Alabama",
+            "team2": "TAMU-CC/SEMO"
+        },
+        {
+            "team1": "Maryland",
+            "team2": "West Virginia"
+        },
+        {
+            "team1": "San Diego St.",
+            "team2": "Charleston"
+        },
+        {
+            "team1": "Virginia",
+            "team2": "Furman"
+        },
+        {
+            "team1": "Creighton",
+            "team2": "NC State"
+        },
+        {
+            "team1": "Baylor",
+            "team2": "UCSB"
+        },
+        {
+            "team1": "Missouri",
+            "team2": "Utah St."
+        },
+        {
+            "team1": "Arizona",
+            "team2": "Princeton"
+        }
+    ]
+}

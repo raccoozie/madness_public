@@ -1,0 +1,102 @@
+[Running] python -u "c:\Users\racco\source\repos\madness\madness4.py"
+Madness Model started at 2023-03-15 14:20:12
+
+Texas A&M defeats Alabama with a score of 67 to 63
+Maryland defeats West Virginia with a score of 98 to 67
+San Diego St. defeats Charleston with a score of 64 to 52
+Furman defeats Virginia with a score of 76 to 58
+NC State defeats Creighton with a score of 92 to 55
+UC Santa Barbara defeats Baylor with a score of 88 to 80
+Missouri defeats Utah St. with a score of 87 to 53
+Arizona defeats Princeton with a score of 68 to 51
+
+Texas A&M defeats Maryland with a score of 74 to 51
+Furman defeats San Diego St. with a score of 97 to 66
+NC State defeats UC Santa Barbara with a score of 94 to 73
+Arizona defeats Missouri with a score of 59 to 55
+
+Furman defeats Texas A&M with a score of 74 to 59
+Arizona defeats NC State with a score of 75 to 50
+
+Arizona defeats Furman with a score of 72 to 69
+
+The south region champion is: Arizona
+
+
+Purdue defeats Texas Southern/FDU with a score of 62 to 53
+Memphis defeats Florida Atlantic with a score of 73 to 67
+Oral Roberts defeats Duke with a score of 86 to 72
+Louisiana defeats Tennessee with a score of 96 to 60
+Providence defeats Kentucky with a score of 59 to 58
+Kansas St. defeats Montana St. with a score of 76 to 63
+Michigan St. defeats USC with a score of 92 to 55
+Marquette defeats Vermont with a score of 89 to 70
+
+Purdue defeats Memphis with a score of 88 to 62
+Oral Roberts defeats Louisiana with a score of 75 to 70
+Kansas St. defeats Providence with a score of 63 to 54
+Marquette defeats Michigan St. with a score of 72 to 56
+
+Oral Roberts defeats Purdue with a score of 97 to 65
+Marquette defeats Kansas St. with a score of 98 to 59
+
+Marquette defeats Oral Roberts with a score of 96 to 86
+
+The east region champion is: Marquette
+
+Howard defeats Kansas with a score of 91 to 61
+Illinois defeats Arkansas with a score of 85 to 52
+Saint Mary�s defeats VCU with a score of 78 to 76
+Iona defeats UConn with a score of 96 to 84
+Arizona St./Nevada defeats TCU with a score of 90 to 76
+Gonzaga defeats Grand Canyon with a score of 87 to 83
+Boise St. defeats Northwestern with a score of 55 to 52
+UNC Asheville defeats UCLA with a score of 83 to 69
+
+Illinois defeats Howard with a score of 65 to 50
+Saint Mary�s defeats Iona with a score of 94 to 75
+Arizona St./Nevada defeats Gonzaga with a score of 63 to 50
+UNC Asheville defeats Boise St. with a score of 87 to 71
+
+Illinois defeats Saint Mary�s with a score of 70 to 62
+Arizona St./Nevada defeats UNC Asheville with a score of 76 to 70
+
+Illinois defeats Arizona St./Nevada with a score of 92 to 91
+
+The west region champion is: Illinois
+
+Houston defeats Northern Ky. with a score of 77 to 59
+Iowa defeats Auburn with a score of 90 to 81
+Drake defeats Miami (FL) with a score of 88 to 58
+Indiana defeats Kent St. with a score of 96 to 95
+Iowa St. defeats Mississippi St./Pitt with a score of 87 to 54
+Xavier defeats Kennesaw St. with a score of 95 to 81
+Texas A&M defeats Penn St. with a score of 96 to 53
+Colgate defeats Texas with a score of 98 to 84
+
+Houston defeats Iowa with a score of 86 to 84
+Indiana defeats Drake with a score of 98 to 74
+Iowa St. defeats Xavier with a score of 71 to 66
+Texas A&M defeats Colgate with a score of 68 to 55
+
+Indiana defeats Houston with a score of 64 to 52
+Texas A&M defeats Iowa St. with a score of 82 to 75
+
+Indiana defeats Texas A&M with a score of 97 to 64
+
+The midwest region champion is: Indiana
+
+Arizona defeats Marquette with a score of 70 to 48
+
+The south-east region champion is: Arizona
+
+Indiana defeats Illinois with a score of 65 to 53
+
+The midwest-west region champion is: Indiana
+
+Arizona defeats Indiana with a score of 60 to 54
+
+The final champion is: Arizona
+
+[Done] exited with code=0 in 0.078 seconds
+

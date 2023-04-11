@@ -1,0 +1,412 @@
+{
+    "teams": [
+        {
+            "seed": 1,
+            "team": "Alabama",
+            "wins": 29,
+            "losses": 5
+        },
+        {
+            "seed": 2,
+            "team": "Houston",
+            "wins": 31,
+            "losses": 3
+        },
+        {
+            "seed": 3,
+            "team": "Kansas",
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 4,
+            "team": "Purdue",
+            "wins": 29,
+            "losses": 5
+        },
+        {
+            "seed": 5,
+            "team": "UCLA",
+            "wins": 29,
+            "losses": 5
+        },
+        {
+            "seed": 6,
+            "team": "Texas",
+            "wins": 26,
+            "losses": 8
+        },
+        {
+            "seed": 7,
+            "team": "Arizona",
+            "wins": 28,
+            "losses": 6
+        },
+        {
+            "seed": 8,
+            "team": "Marquette",
+            "wins": 28,
+            "losses": 6
+        },
+        {
+            "seed": 9,
+            "team": "Baylor",
+            "wins": 22,
+            "losses": 10
+        },
+        {
+            "seed": 10,
+            "team": "Gonzaga",
+            "wins": 28,
+            "losses": 5
+        },
+        {
+            "seed": 11,
+            "team": "Kansas St.",
+            "wins": 23,
+            "losses": 9
+        },
+        {
+            "seed": 12,
+            "team": "Xavier",
+            "wins": 25,
+            "losses": 9
+        },
+        {
+            "seed": 13,
+            "team": "UConn",
+            "wins": 25,
+            "losses": 8
+        },
+        {
+            "seed": 14,
+            "team": "Tennessee",
+            "wins": 23,
+            "losses": 10
+        },
+        {
+            "seed": 15,
+            "team": "Indiana",
+            "wins": 22,
+            "losses": 11
+        },
+        {
+            "seed": 16,
+            "team": "Virginia",
+            "wins": 25,
+            "losses": 7
+        },
+        {
+            "seed": 17,
+            "team": "San Diego St.",
+            "wins": 27,
+            "losses": 6
+        },
+        {
+            "seed": 18,
+            "team": "Duke",
+            "wins": 26,
+            "losses": 8
+        },
+        {
+            "seed": 19,
+            "team": "Saint Mary's (CA)",
+            "wins": 26,
+            "losses": 7
+        },
+        {
+            "seed": 20,
+            "team": "Miami (FL)",
+            "wins": 25,
+            "losses": 7
+        },
+        {
+            "seed": 21,
+            "team": "Iowa St.",
+            "wins": 19,
+            "losses": 13
+        },
+        {
+            "seed": 22,
+            "team": "Creighton",
+            "wins": 21,
+            "losses": 12
+        },
+        {
+            "seed": 23,
+            "team": "Kentucky",
+            "wins": 21,
+            "losses": 11
+        },
+        {
+            "seed": 24,
+            "team": "TCU",
+            "wins": 21,
+            "losses": 12
+        },
+        {
+            "seed": 25,
+            "team": "Texas A&M",
+            "wins": 25,
+            "losses": 9
+        },
+        {
+            "seed": 26,
+            "team": "Michigan St.",
+            "wins": 19,
+            "losses": 12
+        },
+        {
+            "seed": 27,
+            "team": "Missouri",
+            "wins": 24,
+            "losses": 9
+        },
+        {
+            "seed": 28,
+            "team": "Northwestern",
+            "wins": 21,
+            "losses": 11
+        },
+        {
+            "seed": 29,
+            "team": "Memphis",
+            "wins": 26,
+            "losses": 8
+        },
+        {
+            "seed": 30,
+            "team": "Arkansas",
+            "wins": 20,
+            "losses": 13
+        },
+        {
+            "seed": 31,
+            "team": "Maryland",
+            "wins": 21,
+            "losses": 12
+        },
+        {
+            "seed": 32,
+            "team": "Iowa",
+            "wins": 19,
+            "losses": 13
+        },
+        {
+            "seed": 33,
+            "team": "Fla. Atlantic",
+            "wins": 31,
+            "losses": 3
+        },
+        {
+            "seed": 34,
+            "team": "West Virginia",
+            "wins": 19,
+            "losses": 14
+        },
+        {
+            "seed": 35,
+            "team": "Auburn",
+            "wins": 20,
+            "losses": 12
+        },
+        {
+            "seed": 36,
+            "team": "Illinois",
+            "wins": 20,
+            "losses": 12
+        },
+        {
+            "seed": 37,
+            "team": "Boise St.",
+            "wins": 24,
+            "losses": 9
+        },
+        {
+            "seed": 38,
+            "team": "Penn St.",
+            "wins": 22,
+            "losses": 13
+        },
+        {
+            "seed": 39,
+            "team": "Southern California",
+            "wins": 22,
+            "losses": 10
+        },
+        {
+            "seed": 40,
+            "team": "Utah St.",
+            "wins": 26,
+            "losses": 8
+        },
+        {
+            "seed": 41,
+            "team": "NC State",
+            "wins": 23,
+            "losses": 10
+        },
+        {
+            "seed": 42,
+            "team": "Providence",
+            "wins": 21,
+            "losses": 11
+        },
+        {
+            "seed": 43,
+            "team": "Mississippi St.",
+            "wins": 21,
+            "losses": 12
+        },
+        {
+            "seed": 44,
+            "team": "Pittsburgh",
+            "wins": 22,
+            "losses": 11
+        },
+        {
+            "seed": 45,
+            "team": "Arizona St.",
+            "wins": 22,
+            "losses": 12
+        },
+        {
+            "seed": 46,
+            "team": "Nevada",
+            "wins": 22,
+            "losses": 10
+        },
+        {
+            "seed": 47,
+            "team": "Col. of Charleston",
+            "wins": 31,
+            "losses": 3
+        },
+        {
+            "seed": 48,
+            "team": "Oral Roberts",
+            "wins": 30,
+            "losses": 4
+        },
+        {
+            "seed": 49,
+            "team": "Drake",
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 50,
+            "team": "VCU",
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 51,
+            "team": "Kent St.",
+            "wins": 28,
+            "losses": 6
+        },
+        {
+            "seed": 52,
+            "team": "Iona",
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 53,
+            "team": "Furman",
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 54,
+            "team": "Louisiana",
+            "wins": 26,
+            "losses": 7
+        },
+        {
+            "seed": 55,
+            "team": "Kennesaw St.",
+            "wins": 26,
+            "losses": 8
+        },
+        {
+            "seed": 56,
+            "team": "UC Santa Barbara",
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 57,
+            "team": "Grand Canyon",
+            "wins": 24,
+            "losses": 11
+        },
+        {
+            "seed": 58,
+            "team": "Montana St.",
+            "wins": 25,
+            "losses": 9
+        },
+        {
+            "seed": 59,
+            "team": "Vermont",
+            "wins": 23,
+            "losses": 10
+        },
+        {
+            "seed": 60,
+            "team": "Colgate",
+            "wins": 26,
+            "losses": 8
+        },
+        {
+            "seed": 61,
+            "team": "Princeton",
+            "wins": 21,
+            "losses": 8
+        },
+        {
+            "seed": 62,
+            "team": "UNC Asheville",
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 63,
+            "team": "Northern Ky.",
+            "wins": 22,
+            "losses": 12
+        },
+        {
+            "seed": 64,
+            "team": "Howard",
+            "wins": 22,
+            "losses": 12
+        },
+        {
+            "seed": 65,
+            "team": "A&M-Corpus Christi",
+            "wins": 23,
+            "losses": 10
+        },
+        {
+            "seed": 66,
+            "team": "Texas Southern",
+            "wins": 14,
+            "losses": 20
+        },
+        {
+            "seed": 67,
+            "team": "Southeast Mo. St.",
+            "wins": 19,
+            "losses": 16
+        },
+        {
+            "seed": 68,
+            "team": "FDU",
+            "wins": 19,
+            "losses": 15
+        }
+    ]
+}

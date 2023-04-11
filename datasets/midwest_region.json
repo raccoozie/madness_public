@@ -1,0 +1,116 @@
+{
+    "teams": [
+        {
+            "seed": 2,
+            "name": "Houston",
+            "rank": 1,
+            "wins": 31,
+            "losses": 3
+        },
+        {
+            "seed": 63,
+            "name": "Northern Ky.",
+            "rank": 16,
+            "wins": 22,
+            "losses": 12
+        },
+        {
+            "seed": 32,
+            "name": "Iowa",
+            "rank": 8,
+            "wins": 19,
+            "losses": 13
+        },
+        {
+            "seed": 35,
+            "name": "Auburn",
+            "rank": 9,
+            "wins": 20,
+            "losses": 12
+        },
+        {
+            "seed": 20,
+            "name": "Miami (FL)",
+            "rank": 5,
+            "wins": 25,
+            "losses": 7
+        },
+        {
+            "seed": 49,
+            "name": "Drake",
+            "rank": 12,
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 15,
+            "name": "Indiana",
+            "rank": 4,
+            "wins": 22,
+            "losses": 11
+        },
+        {
+            "seed": 51,
+            "name": "Kent St.",
+            "rank": 13,
+            "wins": 28,
+            "losses": 6
+        },
+        {
+            "seed": 21,
+            "name": "Iowa St.",
+            "rank": 6,
+            "wins": 19,
+            "losses": 13
+        },
+        {
+            "seed": 43,
+            "name": "Mississippi St./Pitt",
+            "rank": 11,
+            "wins": 0,
+            "losses": 0
+        },
+        {
+            "seed": 12,
+            "name": "Xavier",
+            "rank": 3,
+            "wins": 25,
+            "losses": 9
+        },
+        {
+            "seed": 55,
+            "name": "Kennesaw St.",
+            "rank": 14,
+            "wins": 26,
+            "losses": 8
+        },
+        {
+            "seed": 25,
+            "name": "Texas A&M",
+            "rank": 7,
+            "wins": 25,
+            "losses": 9
+        },
+        {
+            "seed": 38,
+            "name": "Penn St.",
+            "rank": 10,
+            "wins": 22,
+            "losses": 13
+        },
+        {
+            "seed": 6,
+            "name": "Texas",
+            "rank": 2,
+            "wins": 26,
+            "losses": 8
+        },
+        {
+            "seed": 60,
+            "name": "Colgate",
+            "rank": 15,
+            "wins": 26,
+            "losses": 8
+        }
+    ]
+}

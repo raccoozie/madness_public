@@ -1,0 +1,116 @@
+{
+    "teams": [
+        {
+            "seed": 3,
+            "name": "Kansas",
+            "rank": 1,
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 64,
+            "name": "Howard",
+            "rank": 16,
+            "wins": 22,
+            "losses": 12
+        },
+        {
+            "seed": 30,
+            "name": "Arkansas",
+            "rank": 8,
+            "wins": 20,
+            "losses": 13
+        },
+        {
+            "seed": 36,
+            "name": "Illinois",
+            "rank": 9,
+            "wins": 20,
+            "losses": 12
+        },
+        {
+            "seed": 19,
+            "name": "Saint Mary’s",
+            "rank": 5,
+            "wins": 26,
+            "losses": 7
+        },
+        {
+            "seed": 50,
+            "name": "VCU",
+            "rank": 12,
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 13,
+            "name": "UConn",
+            "rank": 4,
+            "wins": 25,
+            "losses": 8
+        },
+        {
+            "seed": 52,
+            "name": "Iona",
+            "rank": 13,
+            "wins": 27,
+            "losses": 7
+        },
+        {
+            "seed": 24,
+            "name": "TCU",
+            "rank": 6,
+            "wins": 21,
+            "losses": 12
+        },
+        {
+            "seed": 45,
+            "name": "Arizona St./Nevada",
+            "rank": 11,
+            "wins": 0,
+            "losses": 0
+        },
+        {
+            "seed": 10,
+            "name": "Gonzaga",
+            "rank": 3,
+            "wins": 28,
+            "losses": 5
+        },
+        {
+            "seed": 57,
+            "name": "Grand Canyon",
+            "rank": 14,
+            "wins": 24,
+            "losses": 11
+        },
+        {
+            "seed": 28,
+            "name": "Northwestern",
+            "rank": 7,
+            "wins": 21,
+            "losses": 11
+        },
+        {
+            "seed": 37,
+            "name": "Boise St.",
+            "rank": 10,
+            "wins": 24,
+            "losses": 9
+        },
+        {
+            "seed": 5,
+            "name": "UCLA",
+            "rank": 2,
+            "wins": 29,
+            "losses": 5
+        },
+        {
+            "seed": 62,
+            "name": "UNC Asheville",
+            "rank": 15,
+            "wins": 27,
+            "losses": 7
+        }
+    ]
+}
